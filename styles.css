@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+
+.selector:nth-child(odd) {
+	color:  #00f;
+	background-color: #eee;
+}
