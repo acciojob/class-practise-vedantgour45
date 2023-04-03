@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 
-.selector p:nth-child(odd) {
+.selector:nth-child(even) {
 	color:  #00f;
 	background-color: #eee;
 }
