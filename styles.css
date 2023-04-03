@@ -1,6 +1,4 @@
-/*  your css code here. If applicable */
-
-.selector:nth-child(even) {
-	color:  #00f;
+.selector{
 	background-color: #eee;
+	color:#00f;
 }
